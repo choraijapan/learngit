@@ -17,3 +17,5 @@ webで変更して、コミットしました。
 1)aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
 CCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+
+git merge
