@@ -14,3 +14,4 @@ IT是啥，Information Technology，更新速度太快了。忽忽悠悠的我�
 卧槽，那边好像有人web直接修改了，我这修改一下试试。
 ---------------------------
 webで変更して、コミットしました。
+1)aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
