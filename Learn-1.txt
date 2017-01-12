@@ -21,6 +21,6 @@ CCCCCCCCCCCCCCCCCCCCCCCCCCCCC
 git merge
 
 git status -s
-ABC
-DEF
-GHI
+
+git cherry-pick 
+
