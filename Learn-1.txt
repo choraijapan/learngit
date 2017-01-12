@@ -21,3 +21,5 @@ CCCCCCCCCCCCCCCCCCCCCCCCCCCCC
 git merge
 
 git status -s
+
+git cherry-pick 
